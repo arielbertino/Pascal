@@ -1,0 +1,3 @@
+compilar el archivo .pas
+
+fpc "archivo".pas
